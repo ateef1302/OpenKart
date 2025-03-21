@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-16T23:17:03 IST" name="Suite" finished-at="2025-03-16T23:17:26 IST" duration-ms="23105">
+    <groups>
+      <group name="Master">
+        <method signature="LoginTestCase.verifyLogin()[pri:1, instance:testCases.LoginTestCase@7ac0e420]" name="verifyLogin" class="testCases.LoginTestCase"/>
+        <method signature="LoginTestCase.AddressDetails()[pri:2, instance:testCases.LoginTestCase@7ac0e420]" name="AddressDetails" class="testCases.LoginTestCase"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTestCase.verifyLogin()[pri:1, instance:testCases.LoginTestCase@7ac0e420]" name="verifyLogin" class="testCases.LoginTestCase"/>
+        <method signature="LoginTestCase.AddressDetails()[pri:2, instance:testCases.LoginTestCase@7ac0e420]" name="AddressDetails" class="testCases.LoginTestCase"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2025-03-16T23:17:03 IST" name="chromeTest" finished-at="2025-03-16T23:17:26 IST" duration-ms="23105">
+      <class name="testCases.LoginTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTestCase@7ac0e420]" started-at="2025-03-16T23:17:03 IST" name="setup" finished-at="2025-03-16T23:17:14 IST" duration-ms="10464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:1, instance:testCases.LoginTestCase@7ac0e420]" started-at="2025-03-16T23:17:14 IST" name="verifyLogin" finished-at="2025-03-16T23:17:15 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="AddressDetails()[pri:2, instance:testCases.LoginTestCase@7ac0e420]" started-at="2025-03-16T23:17:15 IST" name="AddressDetails" finished-at="2025-03-16T23:17:26 IST" duration-ms="10924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressDetails -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.LoginTestCase@7ac0e420]" started-at="2025-03-16T23:17:26 IST" name="closeBrowser" finished-at="2025-03-16T23:17:26 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.LoginTestCase -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
