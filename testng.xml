@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite>
+<suite name="forgotPasword">
+  <test thread-count="5" name="CheckPasswordLink">
+    <classes>
+      <class name="testCases.forgotPassword"/>
+    </classes>
+  </test> <!-- CheckPasswordLink -->
+</suite> <!-- forgotPasword -->

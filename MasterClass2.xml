@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite >
 <suite name="Suite" >
 <listeners>
 <listener class-name="utilities.ExtentReportManager"></listener>
@@ -9,7 +9,10 @@
  <parameter name="browser" value="chrome"></parameter>
     <classes>
      <!--  <class name="testCases.MyAccountAndRegistration"/>-->
-        <class name="testCases.LoginTestCase"/>
+       <!--<class name="testCases.LoginTestCase"/>-->
+       <!-- <class name="testCases.forgotPassword"/>--> 
+         <class name="testCases.ProductPages"/>
+        
      <!-- <class name="testCases.DDT"/>-->
     </classes>
   </test> <!-- Test -->
