@@ -85,24 +85,11 @@ public class BaseClass {
 		String num = RandomStringUtils.randomNumeric(10);
 		return(alph+"@"+num);
 	}
-	
-	
-	
-	public String captureScreen(String tname) throws IOException {
 
-		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-				
-		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
-		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
-		
-		String targetFilePath=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
-		File targetFile=new File(targetFilePath);
-		
-		sourceFile.renameTo(targetFile);
-			
-		return targetFilePath;
+	
+	
 
-	}
+
 	
 
 	

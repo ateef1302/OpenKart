@@ -9,7 +9,7 @@ public class AddressInfo extends BasePage{
 
 	public AddressInfo(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	@FindBy(xpath="//input[@id='input-firstname']") WebElement fname;

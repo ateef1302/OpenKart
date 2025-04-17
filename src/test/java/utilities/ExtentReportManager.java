@@ -12,7 +12,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -82,13 +81,7 @@ public class ExtentReportManager implements ITestListener {
 		test.log(Status.FAIL,result.getName()+" got failed");
 		test.log(Status.INFO, result.getThrowable().getMessage());
 		
-		try {
-			String imgPath = new BaseClass().captureScreen(result.getName());
-			test.addScreenCaptureFromPath(imgPath);
-			
-		} catch (IOException e1) {
-			e1.printStackTrace();
-		}
+		
 	}
 
 	public void onTestSkipped(ITestResult result) {

@@ -1,71 +1,49 @@
-2025-04-08 17:54:59 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 17:54:59 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 11:00:54 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 11:00:54 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 17:55:54 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 17:55:54 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 11:02:24 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 11:02:24 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 17:57:04 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 17:57:04 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 11:03:24 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 11:03:24 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ateefa\AppData\Local\Temp\testng-eclipse-647011144\testng-customsuite.xml
-
-2025-04-08 17:58:36 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3e7634b9: 54 ms
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5dd91bca: 11 ms
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@56a4479a: 10 ms
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4febb875: 10 ms
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@42e3ede4: 6 ms
-2025-04-08 17:58:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@201b6b6f: 0 ms
-2025-04-08 17:58:52 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 17:58:52 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 12:19:09 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 12:19:09 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 18:03:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:03:01 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 13:11:03 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:11:25 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:11:25 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 18:22:01 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:22:01 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 13:12:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:12:01 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 
-2025-04-08 18:24:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:25:29 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:25:54 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:26:41 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
-2025-04-08 18:26:41 INFO  Utils:112 - [TestNG] Running:
+2025-04-16 13:19:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:19:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
+
+2025-04-16 13:20:27 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:20:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
+
+2025-04-16 13:29:21 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 13:29:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
+
+2025-04-16 17:16:56 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 17:16:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
+
+2025-04-16 17:27:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 17:27:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
+
+2025-04-16 17:32:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml] otherwise TestNG may fail or not work as expected.
+2025-04-16 17:32:15 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ateefa\eclipse-workspace\OpenKart\MasterClass2.xml
 

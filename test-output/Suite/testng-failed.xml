@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.forgotPassword">
+      <class name="testCases.LaptopNotePadCompare">
         <methods>
           <include name="closeBrowser"/>
+          <include name="CompareProducts"/>
           <include name="setup"/>
-          <include name="ForgotPasswordDetails"/>
         </methods>
-      </class> <!-- testCases.forgotPassword -->
+      </class> <!-- testCases.LaptopNotePadCompare -->
     </classes>
   </test> <!-- chromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

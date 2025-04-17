@@ -9,9 +9,11 @@
  <parameter name="browser" value="chrome"></parameter>
     <classes>
      <!--  <class name="testCases.MyAccountAndRegistration"/>-->
-       <!--<class name="testCases.LoginTestCase"/>-->
+     <!--   <class name="testCases.LoginTestCase"/>--> 
        <!-- <class name="testCases.forgotPassword"/>--> 
-         <class name="testCases.ProductPages"/>
+        <!-- <class name="testCases.ProductPages"/>-->
+         <!-- <class name="testCases.ImacProductCompare"/>-->
+      <class name="testCases.LaptopNotePadCompare"/>
         
      <!-- <class name="testCases.DDT"/>-->
     </classes>
